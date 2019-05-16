@@ -1,0 +1,6 @@
+owner=553631199453773824
+prefix=L
+game=lplay
+stayinchannel=true
+songinstatus=false
+token=NTc4NTg3NDk0MzA4OTA0OTYw.XN1yNg.akchAH-5YPx7kj_08GO5vXArS58
